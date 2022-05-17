@@ -1,46 +1,72 @@
-# Getting Started with Create React App
+<h1 align="center">Clone Twitter</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
 
-## Available Scripts
+  <a href="https://github.com/Anderson-Andre-P/clone-twitter">
+    <img alt="Made by Anderson André" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Anderson-Andre-P" />
+  </a>
 
-In the project directory, you can run:
+  <a href="https://www.linkedin.com/in/anderson-andre-pereira/">
+      <img alt="Anderson André" src="https://img.shields.io/badge/-Anderson%20André-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
+   </a>
 
-### `npm start`
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Anderson-Andre-P/clone-twitter?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
+  
+  </br>
+  
+  <img src="https://img.shields.io/badge/Clone_Twitter-16.05.22-5965e0?style=for-the-badge&labelColor=5965e0">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/clone-twitter?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
+  <br />
 
-### `npm test`
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <a href="#link-demo">Demo</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Author</a>
+</p>
 
-### `npm run build`
+## :link: Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Demo](/Demo.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :dart: About
 
-### `npm run eject`
+Esse é um projeto de estudos que consistia em criar um clone da rede social Twitter. Eu tinha como objetivo deixar o mais parecido possível e implementar algumas funcionalidades que a rede social também possui.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :rocket: Technologies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Esse projeto foi desenvolvido com o propósito de aperfeiçoar mais minhas habilidades em responsividade e em ReactJS. As principais tecnologias, foram:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [Styled Icons](https://styled-icons.dev/)
 
-## Learn More
+## :white_check_mark: Requirements
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Antes de dar start :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :checkered_flag: Starting
+
+Você pode ver como ficou a aplicação em sua versão web <a href="https://genuine-pika-26f547.netlify.app/">clicando sobre mim</a>
+
+## :memo: License
+
+Esse projeto conta com a licença do MIT. Para mais detalhes, veja a [LICENSE](LICENSE.md) file.
+
+Feito com o :heart: por <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Anderson André</a>
+
+&#xa0;
+
+<a href="#top">Voltar ao início</a>
